@@ -1,4 +1,4 @@
-![Image](https://pasteboard.co/mbAaJodZCsCN.png)
+![Image](https://imgur.com/a/lU5sKHK)
 # Morvi Sensé
 
 A gesturally controlled instrument - all using a game controller and a laptop. 
